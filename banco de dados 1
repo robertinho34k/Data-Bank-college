@@ -1,0 +1,14 @@
+1) Banco de dados e a relação com sistema gerenciador de Banco de dados(sgbd):
+Banco de dados é um repositório onde dados, estruturados ou não, são armazenados, acessados e analizados. 
+Geralmente contém uma variedade de informação com origens distintas, 
+que podem ser acessadas ou analizadas para diferentes propósitos
+O gerenciador de banco de dados analiza e organiza todos os dados dentro do BD.
+
+2)Modelo relacional de banco de dados:
+O modelo relacional de banco de dado é um tipo de base de dados que armazena dados em uma estrutura de formato usando linhas
+e colunas. Esse modelo é inspirado no modelo de relações, onde cada mesa consiste de uma liha e coluna. O diferencial dessa estrura 
+é o uso da linguagem (SQL) para gerenciar os dados.
+
+3)Micro serviço 
+Micro Serviços são uma arquitetura moderna para desenvolver software de aplicativos. Essa arquitetura descontrói aplicações 
+complexas e grandes em menores e indenpendentes aplicações que podem ser desenvolvidas, exportadas e escaladas individualmente
