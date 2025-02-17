@@ -6,7 +6,7 @@ O gerenciador de banco de dados analiza e organiza todos os dados dentro do BD.
 
 2)Modelo relacional de banco de dados:
 O modelo relacional de banco de dado é um tipo de base de dados que armazena dados em uma estrutura de formato usando linhas
-e colunas. Esse modelo é inspirado no modelo de relações, onde cada mesa consiste de uma liha e coluna. O diferencial dessa estrura 
+e colunas. Esse modelo é inspirado no modelo de relações, onde cada tabela consiste de uma liha e coluna. O diferencial dessa estrura 
 é o uso da linguagem (SQL) para gerenciar os dados.
 
 3)Micro serviço 
